@@ -1,24 +1,11 @@
-# digital-photocopier
+# Photocopy
 
-## Project setup
-```
-npm install
-```
+Have you ever had to send in a signature, been annoyed about the process of printing a piece of paper to write your signature on it, only to immediately throw away the paper after scanning it, when you could just as well have written your signature in paint and sent the result, only it looks just a little bit too clean and forged that way? Then you've come to the right place!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Based on [this wonderfully silly StackExchange post](https://tex.stackexchange.com/a/94541/88992), this web app allows users to upload images and get back as a result the simulated scan of their input.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Example](Example.png "Example output")
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Try it out
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The app is currently hosted on https://photocopy.fuglede.dk/ where you can try it out yourself.
